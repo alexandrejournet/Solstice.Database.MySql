@@ -2,7 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace Radiant.NET.Database.MySql.Injections
+namespace Radiant.Database.MySql.Injections
 {
     public static class MySqlInjections
     {

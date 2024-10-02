@@ -1,3 +1,3 @@
-# Radiant.NET.Database.MySQL
+# Radiant.Database.MySQL
 
 Helper pour MySQL
