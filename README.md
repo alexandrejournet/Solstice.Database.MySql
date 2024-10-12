@@ -1,3 +1,3 @@
-# Radiant.Database.MySQL
+# Solstice.Database.MySQL
 
 Helper pour MySQL
